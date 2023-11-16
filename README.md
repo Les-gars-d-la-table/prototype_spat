@@ -21,6 +21,7 @@ On peut placer une source dans l'espace virtuel qui va générer un son/musique.
 Les 4 speakers seraient connécté a la carte de son externe qui serait connecté a l'ordinateur.
 ### settings
 ![image des settings de spat](images/spat_settings.png)
+
 Il faut s'assurer de connecter le bon output device et de vérifier que le output mapping est bien configurer pour le projet.
 
 
