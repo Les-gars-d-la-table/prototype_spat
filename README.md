@@ -7,5 +7,6 @@
 ## Utilité
  Le package de spat permet de controler le volume du son dans les speakers a partire de la position du x et des y dans un espace. Mon prototype dans le future va se fusionner avec [le prototype de Jacob](https://github.com/Les-gars-d-la-table/prototype) pour que la position des objets sur la table soit détectée et que les sons qu'ils génèrent aient un volume différent dans chacun des speakers.
 
- ## fonctionnement
+ ## Fonctionnement
 ![image du menu de spat](images/spat_menu.png)
+
