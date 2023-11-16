@@ -13,4 +13,7 @@
 On peut placer des speakers dans un espace virtuel qui vont revoir les sons d'une source x. Le plus proche la source est d'un speaker, le plus fort le volume d'un son va augmenter.
 ### sources 🟢
 On peut placer une source dans l'espace virtuel qui va générer un son/musique. On peut controler la position du x et des y pour raprocher la source des speakers ou l'éloigné.
+### settings
+![image des settings de spat](images/spat_settings.png)
+
 
