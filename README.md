@@ -13,7 +13,7 @@
 On peut placer des haut-parleurs dans un espace virtuel qui vont revoir les sons d'une source x. Le plus proche la source est d'un haut-parleur, le plus fort le volume d'un son va augmenter.
 ### Sources 🟢
 On peut placer une source dans l'espace virtuel qui va générer un son/musique. On peut contrôler la position du x et des y pour rapprocher la source des haut-parleurs ou l'éloigner.
-//
+
 ## Matériel
 - 4 speakers
 - une carte de son externe
