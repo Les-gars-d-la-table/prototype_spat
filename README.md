@@ -14,7 +14,7 @@ On peut placer des speakers dans un espace virtuel qui vont revoir les sons d'un
 ### sources 🟢
 On peut placer une source dans l'espace virtuel qui va générer un son/musique. On peut controler la position du x et des y pour raprocher la source des speakers ou l'éloigné.
 //
-## Matériela
+## Matériel
 - 4 speakers
 - une carte de son externe
 - un ordinatoeur
@@ -22,6 +22,6 @@ Les 4 speakers seraient connécté a la carte de son externe qui serait connect�
 ### settings
 ![image des settings de spat](images/spat_settings.png)
 
-Il faut s'assurer de connecter le bon output device et de vérifier que le output mapping est bien configurer pour le projet.
+Il faut s'assurer de connecter le bon output device et de vérifier que le output mapping est bien configurée pour le projet.
 
 
